@@ -36,10 +36,6 @@ void main() {
     expect(reajusteValor(100), 105);
   });
 
-  test('Reajusta valor', () {
-    expect(reajusteValor(100), 105);
-  });
-
   test('Ordena lista ordem decrescente', () {
     var lista = [2, 3, 4];
 
@@ -54,7 +50,7 @@ void main() {
     expect(calculaIMC(85, 1.80), 26.234567901234566);
   });
 
-  test('Ordena lista ordem decrescente', () {
+  test('Calcula media de notas', () {
     List<double> lista = [9, 8, 6];
 
     expect(mediaNotas(lista), 7.666666666666667);
