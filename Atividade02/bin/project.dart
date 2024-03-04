@@ -2,28 +2,71 @@ import 'package:project/project.dart' as project;
 import 'dart:io';
 
 void main(List<String> arguments) {
-  somaValores();
-
-  verificaNumerosPositivosEPares();
-
-  mostraSucessorEAntecessor();
-
-  calculaQuantidadeSalariosMinimo();
-
-  calculaReajusteValor();
-
-  verificarBooleanos();
-
-  ordenaListaOrdemDecrescente();
-
-  calculaImc();
-
-  media3Notas();
-
-  VerificaAlunoAprovadoReprovado();
+  menu();
 }
 
-void VerificaAlunoAprovadoReprovado() {
+void menu() {
+  bool sair = false;
+
+  while (!sair) {
+    print("\nMenu:");
+    print("1. Soma de Valores");
+    print("2. Verificação de Números Positivos e Pares");
+    print("3. Mostrar Sucessor e Antecessor");
+    print("4. Cálculo de Quantidade de Salários Mínimos");
+    print("5. Cálculo de Reajuste de Valor");
+    print("6. Verificação de Booleanos");
+    print("7. Ordenação de Lista em Ordem Decrescente");
+    print("8. Cálculo de IMC");
+    print("9. Média de 3 Notas");
+    print("10. Verificar Aluno Aprovado/Reprovado");
+    print("0. Sair\n");
+
+    stdout.write("Escolha uma opção: ");
+    var opcao = int.parse(stdin.readLineSync().toString());
+
+    switch (opcao) {
+      case 1:
+        somaValores();
+        break;
+      case 2:
+        verificaNumerosPositivosEPares();
+        break;
+      case 3:
+        mostraSucessorEAntecessor();
+        break;
+      case 4:
+        calculaQuantidadeSalariosMinimo();
+        break;
+      case 5:
+        calculaReajusteValor();
+        break;
+      case 6:
+        verificarBooleanos();
+        break;
+      case 7:
+        ordenaListaOrdemDecrescente();
+        break;
+      case 8:
+        calculaImc();
+        break;
+      case 9:
+        media3Notas();
+        break;
+      case 10:
+        verificaAlunoAprovadoReprovado();
+        break;
+      case 0:
+        sair = true;
+        print("Saindo do programa...");
+        break;
+      default:
+        print("Opção inválida. Por favor, escolha uma opção válida.");
+    }
+  }
+}
+
+void verificaAlunoAprovadoReprovado() {
   List<double> notas = [];
 
   print("Insira nota 1: ");
