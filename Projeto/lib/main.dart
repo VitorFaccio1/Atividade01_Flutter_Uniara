@@ -48,10 +48,10 @@ class HomeScreen extends StatelessWidget {
 
 class GameScreen extends StatefulWidget {
   @override
-  _GameScreenState createState() => _GameScreenState();
+  GameScreenState createState() => GameScreenState();
 }
 
-class _GameScreenState extends State<GameScreen> {
+class GameScreenState extends State<GameScreen> {
   final List<String> palavras = [
     'FLUTTER',
     'DESENVOLVIMENTO',
@@ -81,28 +81,26 @@ class _GameScreenState extends State<GameScreen> {
 
   @override
   void initState() {
-    super.initState();
-    _selecionarPalavra();
+    selecionarPalavra();
   }
 
-  void _selecionarPalavra() {
-    final random = Random();
-    palavraSelecionada = palavras[random.nextInt(palavras.length)];
+  void selecionarPalavra() {
+    palavraSelecionada = palavras[Random().nextInt(palavras.length)];
+
     palavraExibida = '*' * palavraSelecionada.length;
   }
 
   void verificarLetra(String letra) {
     setState(() {
-      if (!palavraSelecionada.contains(letra)) {
-        tentativas--;
-      }
+      if (!palavraSelecionada.contains(letra)) tentativas--;
+
       letrasEscolhidas.add(letra);
-      _atualizarPalavraExibida();
-      _verificarFimDoJogo();
+      atualizarPalavraExibida();
+      verificarFimDoJogo();
     });
   }
 
-  void _atualizarPalavraExibida() {
+  void atualizarPalavraExibida() {
     palavraExibida = '';
     for (int i = 0; i < palavraSelecionada.length; i++) {
       if (letrasEscolhidas.contains(palavraSelecionada[i])) {
@@ -113,15 +111,14 @@ class _GameScreenState extends State<GameScreen> {
     }
   }
 
-  void _verificarFimDoJogo() {
+  void verificarFimDoJogo() {
     if (tentativas == 0) {
-      _mostrarAlerta('Você perdeu! A palavra era: $palavraSelecionada');
-    } else if (!palavraExibida.contains('*')) {
-      _mostrarAlerta('Parabéns! Você ganhou!');
-    }
+      mostrarAlerta('Voce perdeu! A palavra era: $palavraSelecionada');
+    } else if (!palavraExibida.contains('*'))
+      mostrarAlerta('Parabens! Voce ganhou!');
   }
 
-  void _mostrarAlerta(String mensagem) {
+  void mostrarAlerta(String mensagem) {
     showDialog(
       context: context,
       builder: (BuildContext context) {
@@ -161,8 +158,7 @@ class _GameScreenState extends State<GameScreen> {
             Expanded(
               child: GridView.count(
                 shrinkWrap: true,
-                crossAxisCount: MediaQuery.of(context).size.width ~/
-                    80, // Define quantos botões por linha baseado no tamanho da tela
+                crossAxisCount: MediaQuery.of(context).size.width ~/ 80,
                 children: List.generate(26, (index) {
                   final letra = String.fromCharCode(index + 65);
                   return Padding(
