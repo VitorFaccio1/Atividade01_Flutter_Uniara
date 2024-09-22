@@ -16,7 +16,6 @@ public class CepController : ControllerBase
     [HttpGet("{cep}")]
     public async Task<IActionResult> GetAddressByCep(string cep)
     {
-        // Remover caracteres especiais do CEP
         cep = cep.Replace(".", "").Replace("-", "").Trim();
 
         var response = await _client.GetAsync($"https://viacep.com.br/ws/{cep}/json/");

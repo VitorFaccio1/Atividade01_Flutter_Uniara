@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KUV4huJ3O/0=",
+  "dgSpecHash": "LAGJNaCsI3w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2º Semestre\\Atividade04\\Api\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

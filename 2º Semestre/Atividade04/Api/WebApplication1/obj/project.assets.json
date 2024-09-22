@@ -6946,11 +6946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2º Semestre\\Atividade04\\Api\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\vitor\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2º Semestre\\Atividade04\\Api\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2º Semestre\\Atividade04\\Api\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
