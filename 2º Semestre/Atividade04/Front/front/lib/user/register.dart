@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-class Register extends StatefulWidget {
+class RegisterUser extends StatefulWidget {
   @override
-  _RegisterState createState() => _RegisterState();
+  _RegisterUserState createState() => _RegisterUserState();
 }
 
-class _RegisterState extends State<Register> {
+class _RegisterUserState extends State<RegisterUser> {
   final TextEditingController _emailController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
   final _formKey = GlobalKey<FormState>();

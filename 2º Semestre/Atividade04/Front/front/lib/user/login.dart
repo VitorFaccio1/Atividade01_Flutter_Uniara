@@ -28,7 +28,7 @@ class _LoginState extends State<Login> {
     );
 
     if (response.statusCode == 200) {
-      Navigator.pushReplacementNamed(context, '/cep');
+      Navigator.pushNamed(context, '/stores');
     } else {
       showDialog(
         context: context,

@@ -25,3 +25,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\vitor\Documents\GitHub\Atividades_Flutter_Uniara\2º Semestre\Atividade04\Api\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/vitor/Documents/GitHub/Atividades_Flutter_Uniara/2º Semestre/Atividade04/Api/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|c:\\users\\vitor\\documents\\github\\atividades_flutter_uniara\\2\u00BA semestre\\atividade04\\api\\webapplication1\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Migrations\\20241001015615_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20241001015615_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|c:\\users\\vitor\\documents\\github\\atividades_flutter_uniara\\2\u00BA semestre\\atividade04\\api\\webapplication1\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|c:\\users\\vitor\\documents\\github\\atividades_flutter_uniara\\2\u00BA semestre\\atividade04\\api\\webapplication1\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Migrations\\20241001015328_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20241001015328_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|c:\\users\\vitor\\documents\\github\\atividades_flutter_uniara\\2\u00BA semestre\\atividade04\\api\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|c:\\users\\vitor\\documents\\github\\atividades_flutter_uniara\\2\u00BA semestre\\atividade04\\api\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|c:\\users\\vitor\\documents\\github\\atividades_flutter_uniara\\2\u00BA semestre\\atividade04\\api\\webapplication1\\data\\webapplication1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|c:\\users\\vitor\\documents\\github\\atividades_flutter_uniara\\2\u00BA semestre\\atividade04\\api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|c:\\users\\vitor\\documents\\github\\atividades_flutter_uniara\\2\u00BA semestre\\atividade04\\api\\webapplication1\\migrations\\20240920023622_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE9845A3-DCA9-45E7-8FE1-CA350DA4454F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240920023622_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,31 +47,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CepController.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Controllers\\CepController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CepController.cs",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Controllers\\CepController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\CepController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Title": "20241001015615_initial.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Migrations\\20241001015615_initial.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241001015615_initial.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Migrations\\20241001015615_initial.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241001015615_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T02:45:16.188Z",
+              "WhenOpened": "2024-10-01T01:56:15.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240920023622_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Migrations\\20240920023622_Initial.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240920023622_Initial.cs",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Migrations\\20240920023622_Initial.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20240920023622_Initial.cs",
+              "DocumentIndex": 3,
+              "Title": "20241001015328_initial.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Migrations\\20241001015328_initial.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241001015328_initial.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Migrations\\20241001015328_initial.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241001015328_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T02:36:22.468Z"
+              "WhenOpened": "2024-10-01T01:53:28.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StoresController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:50:28.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:49:59.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Models\\Store.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:48:11.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WebApplication1Context.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Data\\WebApplication1Context.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\WebApplication1Context.cs",
@@ -67,11 +119,12 @@
               "RelativeToolTip": "WebApplication1\\Data\\WebApplication1Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T02:35:37.412Z"
+              "WhenOpened": "2024-09-20T02:35:37.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -83,15 +136,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Atividades_Flutter_Uniara\\2\u00BA Semestre\\Atividade04\\Api\\WebApplication1\\Controllers\\UsersController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T01:59:01.176Z"
+              "WhenOpened": "2024-09-20T01:59:01.176Z",
+              "EditorCaption": ""
             }
           ]
         }

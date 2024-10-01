@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:front/cep.dart';
-import 'login.dart';
-import 'register.dart';
+import 'package:front/Store/register.dart';
+import 'package:front/store/list.dart';
+import 'user/login.dart';
+import 'user/register.dart';
 
 void main() => runApp(MyApp());
 
@@ -16,8 +17,9 @@ class MyApp extends StatelessWidget {
       initialRoute: '/login',
       routes: {
         '/login': (context) => Login(),
-        '/register': (context) => Register(),
-        '/cep': (context) => Cep(),
+        '/register': (context) => RegisterUser(),
+        '/store/register': (context) => RegisterStore(),
+        '/stores': (context) => ListStorePage(),
       },
     );
   }

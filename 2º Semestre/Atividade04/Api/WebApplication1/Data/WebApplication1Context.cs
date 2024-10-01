@@ -11,4 +11,6 @@ public class WebApplication1Context : DbContext
     }
 
     public DbSet<User> Users { get; set; } = default!;
+
+public DbSet<WebApplication1.Models.Store> Stores { get; set; } = default!;
 }

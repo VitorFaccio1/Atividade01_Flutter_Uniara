@@ -1,15 +1,25 @@
 [
   {
-    "ContainingType": "WebApplication1.Controllers.CepController",
-    "Method": "GetAddressByCep",
-    "RelativePath": "Cep/{cep}",
+    "ContainingType": "WebApplication1.Controllers.StoresController",
+    "Method": "GetStores",
+    "RelativePath": "Stores",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.StoresController",
+    "Method": "Register",
+    "RelativePath": "Stores/register",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "cep",
-        "Type": "System.String",
+        "Name": "store",
+        "Type": "WebApplication1.Models.Store",
         "IsRequired": true
       }
     ],

@@ -507,3 +507,5 @@ C:\Users\vitor\Documents\GitHub\Atividades_Flutter_Uniara\2º Semestre\Atividade
 C:\Users\vitor\Documents\GitHub\Atividades_Flutter_Uniara\2º Semestre\Atividade04\Api\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\vitor\Documents\GitHub\Atividades_Flutter_Uniara\2º Semestre\Atividade04\Api\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\vitor\Documents\GitHub\Atividades_Flutter_Uniara\2º Semestre\Atividade04\Api\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\vitor\Documents\GitHub\Atividades_Flutter_Uniara\2º Semestre\Atividade04\Api\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\vitor\Documents\GitHub\Atividades_Flutter_Uniara\2º Semestre\Atividade04\Api\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
